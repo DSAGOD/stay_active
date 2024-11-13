@@ -26,4 +26,4 @@ def my_function():
 
 while True:
     my_function()
-    time.sleep(1*60)  # Wait 5 seconds before calling again
+    time.sleep(1*60)  # Wait 1 minutes before calling again
